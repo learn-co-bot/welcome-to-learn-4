@@ -6,8 +6,6 @@ The Learn IDE is built on top of Atom, the text editor by the amazing people at 
 
 When you open the Learn IDE, you'll see 3 main components: the file browser, the text editor and the terminal. Let's talk about each of those. 
 
-<img src="http://learn-co-videos.s3.amazonaws.com/welcome/ide-components.png" style="width:100%" />
-
 Down the left side of the IDE, you'll find a file browser which lists the files and folders in your “code” workspace. Contained in your “code” workspace is a “labs” folder—this is the folder into which all of the code labs and projects you'll be working on will appear. You'll see new folders be automatically copied here for you as you start working through lessons on Learn very soon. Clicking on a file in the file browser will load the contents of that file into the text editor window. 
 
 The text editor window is the central part of the IDE. This is where you'll actually be writing code. You'll write code here either by editing existing files in the project folders that are copied into the IDE or by creating new files when necessary. You can work on multiple files at once in the text editor, they'll appear as tabs across the top of your screen. Remember to save your work often—especially just before trying to run a program, so that the interpreter is always running the latest version of your code. 
@@ -25,3 +23,5 @@ Before you continue, it's time to get set up with the Learn IDE. Follow the inst
 If you have any trouble getting the Learn IDE installed, just use the Ask a Question button on this page and someone will jump in to help you ASAP.
 
 Next up, we'll walk you through the process of how to use the Learn IDE to solve code labs on Learn. The real fun is about to begin!
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-4'>The Learn IDE</a> on Learn.co and start learning to code for free.</p>
