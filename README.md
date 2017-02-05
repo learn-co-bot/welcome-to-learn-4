@@ -14,7 +14,7 @@ The text editor window is the central part of the IDE. This is where you'll actu
 
 The Learn IDE's terminal—your command line and shell—can be found below the text editor. If you were using a local terminal on your computer, you'd need to spend a bunch of time installing several different tools and packages to allow you to start compiling and running code; it can be a cumbersome and complex process. But because we want you to start coding as quickly as possible in the Learn IDE, we've pre-configured the terminal here with a complete development environment that has everything you need to get started. The magic that makes this possible is the fact that the Learn IDE's terminal is connected over the Internet to a remote server we've set up with a complete development environment for you. This will allow you to adopt the workflow of a professional software developer right out of the gates on Learn, with no fuss.
 
-## Set up the Learn IDE on your computer
+## Set up the Learn IDE on your computer!
 
 Before you continue, it's time to get set up with the Learn IDE. Follow the instructions below to get started: 
 
@@ -25,3 +25,5 @@ Before you continue, it's time to get set up with the Learn IDE. Follow the inst
 If you have any trouble getting the Learn IDE installed, just use the Ask a Question button on this page and someone will jump in to help you ASAP.
 
 Next up, we'll walk you through the process of how to use the Learn IDE to solve code labs on Learn. The real fun is about to begin!
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-4'>The Learn IDE</a> on Learn.co and start learning to code for free.</p>
