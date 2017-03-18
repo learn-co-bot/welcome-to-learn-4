@@ -23,5 +23,8 @@ Before you continue, it's time to get set up with the Learn IDE. Follow the inst
 3. Log in to the Learn IDE with your newly created Learn account
 
 If you have any trouble getting the Learn IDE installed, just use the Ask a Question button on this page and someone will jump in to help you ASAP.
+(Note on logging in... although you'll be offered a Github signup, don't do that just yet, you need to sign up & login via your Learn.co account first. Fun with github comes later!)
 
 Next up, we'll walk you through the process of how to use the Learn IDE to solve code labs on Learn. The real fun is about to begin!
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-4'>The Learn IDE</a> on Learn.co and start learning to code for free.</p>
