@@ -1,4 +1,4 @@
-# The Learn <abbr title="Integrated Development Environment">IDE</abbr>
+****# The Learn <abbr title="Integrated Development Environment">IDE</abbr>
 
 Since you're going to be living in the Learn IDE as you learn to code, let's take a few minutes and talk a little more about it and how it works.
 
@@ -25,3 +25,5 @@ Before you continue, it's time to get set up with the Learn IDE. Follow the inst
 If you have any trouble getting the Learn IDE installed, just use the Ask a Question button on this page and someone will jump in to help you ASAP.
 
 Next up, we'll walk you through the process of how to use the Learn IDE to solve code labs on Learn. The real fun is about to begin!
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-4'>The Learn IDE</a> on Learn.co and start learning to code for free.</p>
